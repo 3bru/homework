@@ -1,0 +1,110 @@
+[
+    {
+        "firstName": "Rack",
+        "lastName": "Jackon",
+        "gender": "man",
+        "age": 24,
+        "address": {
+            "streetAddress": "126",
+            "city": "San Jone",
+            "state": "CA",
+            "postalCode": "394221"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7383627627"
+            }
+        ]
+    },
+    {
+        "firstName": "Mirkan",
+        "lastName": "Kilic",
+        "gender": "man",
+        "age": 26,
+        "address": {
+            "streetAddress": "294 wright ave",
+            "city": "Gretna",
+            "state": "LA",
+            "postalCode": "70056"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "5046038251"
+            }
+        ]
+    },
+    {
+        "firstName": "Ebru",
+        "lastName": "Arslan",
+        "gender": "female",
+        "age": 23,
+        "address": {
+            "streetAddress": "2032 ave 3091 street",
+            "city": "Ankara",
+            "state": "unefined",
+            "postalCode": "undefined"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "5385849116"
+            }
+        ]
+    },
+    {
+        "firstName": "Jonathan",
+        "lastName": "Livingston",
+        "gender": "man",
+        "age": "undefined",
+        "address": {
+            "streetAddress": "0",
+            "city": "0",
+            "state": "World",
+            "postalCode": "0"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "72538162736"
+            }
+        ]
+    },
+    {
+        "firstName": "Jesus",
+        "lastName": "Crist",
+        "gender": "man",
+        "age": 100,
+        "address": {
+            "streetAddress": "50 East North Temple St",
+            "city": "Salt Lake City",
+            "state": "UT",
+            "postalCode": "84150"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "988753422"
+            }
+        ]
+    },
+    {
+        "firstName": "Richard",
+        "lastName": "Sanchez",
+        "gender": "man",
+        "age": 45,
+        "address": {
+            "streetAddress": "6400 Uptown Blvd. NE Suite 550",
+            "city": "East Albuquerque",
+            "state": "ABQ",
+            "postalCode": "87110"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "1876352618"
+            }
+        ]
+    }
+]
